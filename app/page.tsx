@@ -445,8 +445,7 @@ export default function Home() {
                 Get 5% off your 1st app booking
               </h1>
               <p className="text-white my-2">
-                Booking is better on the app. Use promo code "TourBooking" to
-                save!
+                Booking is better on the app. Use promo code TourBooking to save!
               </p>
               <p className="text-white mt-7">
                 Get a magic link sent to your email
