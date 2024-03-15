@@ -81,7 +81,7 @@ export default function Home() {
             <Image src={ticket} alt="" width={50} height={50} />
             <h3 className="text-[18px] font-bold my-4">Ultimate flexibility</h3>
             <p>
-              You're in control, with free cancellation and payment options to
+              You are in control, with free cancellation and payment options to
               satisfy any plan or budget.
             </p>
           </div>
@@ -91,7 +91,7 @@ export default function Home() {
               Memorable experiences
             </h3>
             <p>
-              Browse and book tours and activities so incredible, you'll want to
+              Browse and book tours and activities so incredible, you will want to
               tell your friends.
             </p>
           </div>
@@ -105,7 +105,7 @@ export default function Home() {
             <h3 className="text-[18px] font-bold my-4">
               Award-winning support
             </h3>
-            <p>New price? New plan? No problem. We're here to help, 24/7.</p>
+            <p>New price? New plan? No problem. We are here to help, 24/7.</p>
           </div>
         </div>
       </div>
@@ -309,7 +309,7 @@ export default function Home() {
               favorite Destination
             </h1>
             <p className="text-[14.77px] my-6">
-              Limited time offer, don't miss the opportunity
+              Limited time offer, do not miss the opportunity
             </p>
             <button className="bg-[#EB662B] text-white px-5 h-12 rounded-[12px]">
               Book now
@@ -445,7 +445,7 @@ export default function Home() {
                 Get 5% off your 1st app booking
               </h1>
               <p className="text-white my-2">
-                Booking's better on the app. Use promo code "TourBooking" to
+                Booking is better on the app. Use promo code "TourBooking" to
                 save!
               </p>
               <p className="text-white mt-7">
